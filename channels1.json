@@ -1,17 +1,17 @@
 [
    {
       "title":"Arriadia",
-	  "image": "https://i.imgur.com/FOXP0T1.jpg",
+	  "image": "http://i.imgur.com/FOXP0T1.jpg",
       "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
    },
    {
       "title":"Alaoula Laayoune",
-	  "image":"https://i.imgur.com/TOzffM5.jpg",
+	  "image":"http://i.imgur.com/TOzffM5.jpg",
       "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
    },
    {
       "title" : "Alaoula Inter",
-      "image":"https://i.imgur.com/8WiJGEY.jpg",
+      "image":"http://i.imgur.com/8WiJGEY.jpg",
 	"play":"http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8"   
    }
 ]
