@@ -1,5 +1,4 @@
-{
-  "data" : [
+[
     {
       "title" : "Arriadia",
 	  "image": "https://i.imgur.com/FOXP0T1.jpg",
@@ -171,7 +170,4 @@
       "image": "https://i.imgur.com/FOXP0T1.jpg",
 
     }
-  ],
-  "length": 25
-}
-
+  ]
