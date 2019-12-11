@@ -1,18 +1,18 @@
 [
     {
       "title" : "Arriadia",
-	  "image": "https://i.imgur.com/FOXP0T1.jpg",
+      "image": "https://i.imgur.com/FOXP0T1.jpg",
       "play" : "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8"
     },
     {
       "title" : "Alaoula Laayoune",
-	  "image": "http://i.imgur.com/TOzffM5.jpg",
+      "image": "http://i.imgur.com/TOzffM5.jpg",
       "play" : "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8"
     },
     {
       "title" : "Alaoula Inter",
-	   "play" : "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
-       "image": "http://i.imgur.com/8WiJGEY.jpg",
+      "play" : "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+      "image": "http://i.imgur.com/8WiJGEY.jpg",
     },
     {
       "title" : "Assadissa",
@@ -162,6 +162,5 @@
       "title" : "RMC",
       "play" : "rtmp://fms.105.net:1935/live/rmc1",
       "image": "https://i.imgur.com/FOXP0T1.jpg"
-
     }
   ]
