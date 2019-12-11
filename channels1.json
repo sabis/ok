@@ -1,112 +1,246 @@
-[
-   {
-      "title":"ABP News (Hindi)",
-      "image":"https://i.imgur.com/FOXP0T1.jpg",
-      "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8"
-   },
-   {
-      "title":"NDTV 24x7",
-      "image":"https://i.imgur.com/TOzffM5.jpg",
-      "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8"
-   },
-   {
-      "title":"NDTV 24x7 2",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtv247.gif",
-      "play":"http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8"
-   },
-   {
-      "title":"NDTV GoodTimes",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtvgoodtimes.png",
-      "play":"http://bglive-a.bitgravity.com/ndtv/prohi/live/native"
-   },
-   {
-      "title":"NDTV India (Hindi)",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtvindia.png",
-      "play":"http://ndtv.indostan.epac.to/ndtv/indlo/live/native"
-   },
-   {
-      "title":"NDTV India (Hindi) 2",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtvindia.png",
-      "play":"http://bglive-a.bitgravity.com/ndtv/indlo/live/native"
-   },
-   {
-      "title":"NDTV Prime",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ndtvprime.png",
-      "play":"http://bglive-a.bitgravity.com/ndtv/prolo/live/native"
-   },
-   {
-      "title":"Clubbing TV",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_clubbingtv.jpg",
-      "play":"http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8"
-   },
-   {
-      "title":"Sky TG24 (Italian)",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_skytg24.jpeg",
-      "play":"http://iphone.live.sky.it/jen2011/jen2011_Layer1.m3u8"
-   },
-   {
-      "title":"HSNTV",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_hsn.jpg",
-      "play":"rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31"
-   },
-   {
-      "title":"News 12 Long Island",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_news12li.jpg",
-      "play":"rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000"
-   },
-   {
-      "title":"News 12 Bronx",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_news12bronx.png",
-      "play":"rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000"
-   },
-   {
-      "title":"News 12 Bronx Weather",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_news12bronx.png",
-      "play":"rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000"
-   },
-   {
-      "title":"News 12 Brooklyn",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_news12brooklyn.png",
-      "play":"rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000"
-   },
-   {
-      "title":"News 12 Brooklyn Weather",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_news12brooklyn.png",
-      "play":"rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000"
-   },
-   {
-      "title":"News 12 Connecticut Weather",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_news12conneticut.jpg",
-      "play":"rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000"
-   },
-   {
-      "title":"News 12 Hudson Valley Weather",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_news12hsv.jpg",
-      "play":"rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000"
-   },
-   {
-      "title":"Bursa Sport",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_bstv.jpg",
-      "play":"http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8"
-   },
-   {
-      "title":"ABP Majha (Marathi)",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_abpmajha.jpg",
-      "play":"http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8"
-   },
-   {
-      "title":"IBN 7",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ibn7.jpg",
-      "play":"http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8?sd=10&rebase=on"
-   },
-   {
-      "title":"CNN IBN",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_cnnibn.png",
-      "play":"http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_1_av-p.m3u8?sd=10&rebase=on"
-   },
-   {
-      "title":"IBN Lokmat (Marathi)",
-      "image":"http://heroic-command-719.appspot.com/thumbs/ic_ibnlokmat.gif",
-      "play":"http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_1_av-p.m3u8?sd=10&rebase=on"
-   }
-]
+{
+  "data" : [
+    {
+      "title" : "Arriadia",
+      "url" : "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+      "logoimg": "https://i.imgur.com/FOXP0T1.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Alaoula Laayoune",
+      "url" : "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
+      "logoimg": "https://i.imgur.com/TOzffM5.jpg",
+      "desc": "",
+      "intr": ""
+
+    },
+    {
+      "title" : "Alaoula Inter",
+      "url" : "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+      "logoimg": "https://i.imgur.com/8WiJGEY.jpg",
+      "desc": "",
+      "intr": ""
+
+    },
+    {
+      "title" : "Assadissa",
+      "url" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+      "logoimg": "https://i.imgur.com/5JgvLVq.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Arrabiaa",
+      "url" : "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
+      "logoimg": "https://i.imgur.com/3NeBFJi.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "AlMaghribia",
+      "url" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
+      "logoimg": "https://i.imgur.com/xjolLBY.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Tele Maroc",
+      "url" : "http://www.elahmad.com/tv/m3u8/live_stream.m3u8?id=telemaroc",
+      "logoimg": "https://i.imgur.com/LExGhOI.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "2m Monde",
+      "url" : "http://livecdnh2.tvanywhere.ae/hls/2m_maroc/03.m3u8",
+      "logoimg": "https://i.imgur.com/PEEDbei.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    { "title" : "Tamazight",
+      "url" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_400000=2-mp4a_130400_qad=1.m3u8",
+      "logoimg": "https://i.imgur.com/b1S6e9U.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Medi1tv Afrique",
+      "url" : "http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8",
+      "logoimg": "https://i.imgur.com/HH9nAo8.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Medi1tv Maghreb",
+      "url" : "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w415571540.m3u8",
+      "logoimg": "https://i.imgur.com/mQtc9gZ.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Medi1tv Arabia",
+      "url" : "http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist_w125553018.m3u8",
+      "logoimg": "https://i.imgur.com/0PfLBtY.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "MAP NEWS Maroc",
+      "url" : "https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_w1424846153_b200000_sleng.m3u8?v=3580651798",
+      "logoimg": "https://i.imgur.com/LbUMRt1.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "DW Arabia",
+      "url" : "http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8",
+      "logoimg": "https://i.imgur.com/gM3ULIJ.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "TV5",
+      "url" : "http://livecdnh1.tvanywhere.ae:80/hls/tv5/03.m3u8",
+      "logoimg": "https://i.imgur.com/RS07lEt.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Aljazeera Doc",
+      "url" : "http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8",
+      "logoimg": "https://i.imgur.com/P00Q7ZL.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Aljazeera Mubasher",
+      "url" : "http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8",
+      "logoimg": "https://i.imgur.com/JviZIVg.jpg",
+      "desc": "",
+      "intr": ""
+
+    },
+    {
+      "title" : "aljazeera",
+      "url" : "http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8",
+      "url" : "http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8",
+      "logoimg": "https://i.imgur.com/r0maxpH.jpg",
+      "desc": "",
+      "intr": ""
+
+    },
+    {
+      "title" : "Arressalah",
+      "url" : "http://livecdnh3.tvanywhere.ae/hls/resalah/03.m3u8",
+      "logoimg": "https://i.imgur.com/38zB9sd.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Assunnah",
+      "url" : "http://livecdnh2.tvanywhere.ae/hls/sunnah/03.m3u8",
+      "logoimg": "https://i.imgur.com/UoOoGfy.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Alquran",
+      "url" : "http://livecdnh2.tvanywhere.ae/hls/quran/03.m3u8",
+      "logoimg" : "https://i.imgur.com/trk7z2u.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Boomrang",
+      "url" : "http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8",
+      "url" : "http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8",
+      "logoimg": "https://i.imgur.com/8ZcN9oM.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "CNArabia",
+      "url" : "http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8",
+      "logoimg": "https://i.imgur.com/1DYJUns.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Spacetoon",
+      "url" : "http://livecdnh2.tvanywhere.ae/hls/spacetoon/03.m3u8",
+      "logoimg": "https://i.imgur.com/rPPOzCj.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "MBC3",
+      "url" : "http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8",
+      "logoimg": "https://i.imgur.com/6gZ2Ynd.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Star Movies",
+      "url" : "http://livecdnh1.tvanywhere.ae:80/hls/star_movies/03.m3u8",
+      "logoimg": "https://i.imgur.com/k5nQkYK.png",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Star World",
+      "url" : "http://livecdnh1.tvanywhere.ae:80/hls/star_world/03.m3u8",
+      "logoimg": "https://i.imgur.com/Z2ecQp2.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "Dubai One",
+      "url" : "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione",
+      "logoimg": "https://i.imgur.com/9uMTSSC.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "أبو ظبي الرياضية 2",
+      "url" : "http://tvae.ercdn.net/adsport3/adsport3_720p.m3u8?v=1766033397",
+      "url" : "http://tvae.ercdn.net/adsport3/adsport3_360p.m3u8",
+      "logoimg": "https://i.imgur.com/FOXP0T1.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "دبي الرياضية",
+      "url" : "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b200000.m3u8?3475397026",
+      "url" : "http://tvae.ercdn.net/adsport3/adsport3_360p.m3u8",
+      "logoimg": "https://i.imgur.com/FOXP0T1.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "دبي الرياضية",
+      "url" : "http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_w1397369449_b300000.m3u8?2695890518",
+      "url" : "http://tvae.ercdn.net/adsport3/adsport3_360p.m3u8",
+      "logoimg": "https://i.imgur.com/FOXP0T1.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "دبي الرياضية",
+      "url" : "http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8?",
+      "url" : "http://tvae.ercdn.net/adsport3/adsport3_360p.m3u8",
+      "logoimg": "https://i.imgur.com/FOXP0T1.jpg",
+      "desc": "",
+      "intr": ""
+    },
+    {
+      "title" : "RMC",
+      "url" : "rtmp://fms.105.net:1935/live/rmc1",
+      "logoimg": "https://i.imgur.com/FOXP0T1.jpg",
+      "desc": "",
+      "intr": ""
+    }
+  ],
+  "length": 25
+}
+
