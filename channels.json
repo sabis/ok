@@ -23,10 +23,5 @@
       "title":"Arrabiaa",
       "image":"http://i.imgur.com/3NeBFJi.jpg",
       "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
-    },
-    {
-      "title":"AlMaghribia",
-      "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
-      "image":"http://i.imgur.com/xjolLBY.jpg"
     }
 ]
