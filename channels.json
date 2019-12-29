@@ -11,18 +11,18 @@
     },
     {
       "title":"Alaoula Inter",
-      "play":"http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
-      "image":"http://i.imgur.com/8WiJGEY.jpg",
+	   "image":"http://i.imgur.com/8WiJGEY.jpg",
+       "play":"http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
     },
     {
       "title":"Assadissa",
-      "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
-      "image":"http://i.imgur.com/5JgvLVq.jpg"
+      "image":"http://i.imgur.com/5JgvLVq.jpg",
+      "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8"
     },
     {
       "title":"Arrabiaa",
-      "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
-      "image":"http://i.imgur.com/3NeBFJi.jpg"
+      "image":"http://i.imgur.com/3NeBFJi.jpg",
+      "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
     },
     {
       "title":"AlMaghribia",
