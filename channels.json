@@ -1,8 +1,13 @@
 [
+     {
+      "title":"Aljazeera",
+      "image":"http://i.imgur.com/FOXP0T1.jpg",
+      "play":"http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8"
+    },
     {
       "title":"Arriadia",
       "image":"https://i.imgur.com/FOXP0T1.jpg",
-      "play":"http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8"
+      "play":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8"
     },
     {
       "title":"Alaoula Laayoune",
