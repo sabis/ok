@@ -2,12 +2,12 @@
     {
       "title":"Arriadia",
       "image":"https://i.imgur.com/FOXP0T1.jpg",
-      "play":"http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8?sd=10&rebase=on"
+      "play":"http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8"
     },
     {
       "title":"Alaoula Laayoune",
       "image":"http://i.imgur.com/TOzffM5.jpg",
-      "play":"http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8"
+      "play":"http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8"
     },
     {
       "title":"Alaoula Inter",
