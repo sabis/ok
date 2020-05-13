@@ -108,14 +108,14 @@
     },
     {
       "title" : "Aljazeera Doc",
-      "url" : "http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8",
+      "url" : "http://live-hls-web-ajd.getaj.net/AJD/03.m3u8",
       "logoimg": "https://i.imgur.com/P00Q7ZL.jpg",
       "desc": "",
       "intr": ""
     },
     {
       "title" : "Aljazeera Mubasher",
-      "url" : "http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8",
+      "url" : "http://live-hls-web-ajm.getaj.net/AJM/03.m3u8",
       "logoimg": "https://i.imgur.com/JviZIVg.jpg",
       "desc": "",
       "intr": ""
@@ -123,8 +123,7 @@
     },
     {
       "title" : "aljazeera",
-      "url" : "http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8",
-      "url" : "http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8",
+      "url" : "http://live-hls-web-aja.getaj.net/AJA/01.m3u8",
       "logoimg": "https://i.imgur.com/r0maxpH.jpg",
       "desc": "",
       "intr": ""
